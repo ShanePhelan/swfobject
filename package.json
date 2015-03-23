@@ -1,6 +1,7 @@
 {
   "name": "swfobject",
   "version": "2.2.0",
+  "main": "swfobject/swfobject.js",
   "description": "An open source Javascript framework for detecting the Adobe Flash Player plugin and embedding Flash (swf) files.",
   "author": "swfobject",
   "private": true,
